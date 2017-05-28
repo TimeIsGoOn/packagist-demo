@@ -1,14 +1,8 @@
 {
-    "name": "sun/packagistdemo",
+    "name": "timeisgoon/sunpackagist",
     "description": "demo",
-    "type": "project",
+    "type": "php",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Sun Wen",
-            "email": "15010217897@163.com"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {}
 }
