@@ -1,0 +1,14 @@
+{
+    "name": "sun/packagistdemo",
+    "description": "demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sun Wen",
+            "email": "15010217897@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
